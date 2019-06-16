@@ -1,0 +1,63 @@
+body {
+	background-image: url('../images/bigshanty.png'); 
+ 	background-color: black; 
+}
+h1{
+	font-family: 'Staatliches', cursive;
+	color: #f2f1e6;
+	line-height: 200px;
+	font-size: 300px;
+}
+
+.shadow {
+	margin-top:40px;
+}
+
+.modal-content {
+	background-color: black;
+}
+
+.modal-title {
+	font-family: 'Staatliches', cursive;
+	color: #f2f1e6;
+}
+
+.modal-body {
+	font-family: 'Staatliches', cursive;
+	color: #f2f1e6;
+}
+
+/*.border-top {
+	border-color: #f2f1e6 !important;
+    border-width:20px !important;
+    padding-top: 11px !important;
+}*/
+
+
+/*.bottomBord{
+	padding-bottom: ;
+    border-bottom: 20px solid  #f2f1e6;
+}*/
+/*.big{
+padding-top: 11px;
+border-top: 20px solid  #f2f1e6;
+}*/
+
+a {
+	font-family: 'Staatliches', cursive;
+	color:#f2f1e6;
+	text-decoration: underline;
+}
+
+.nav-item a:hover {
+            color: pink !important;
+            cursor: pointer;
+        }
+
+        body{
+
+        }
+.icon {
+	display: inline;
+	text-decoration: none;
+}
